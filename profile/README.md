@@ -2,4 +2,4 @@
 
 
 
-![mascot](/profile/mascot.gif) 
+![mascot](/profile/mascot.gif)
